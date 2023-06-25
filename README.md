@@ -1,5 +1,5 @@
 <div class="header">
-  <h2>Dark</h2>
+     <h2>Dark</h2>
 </div>
 
 <div class="row">
@@ -7,18 +7,7 @@
     <div class="card">
       <h2>Home</h2>
       <h5>“A website without visitors is like a ship lost in the horizon.”</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-    </div>
-    <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Sep 2, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-    </div>
-  </div>
-  <div class="rightcolumn">
-    <div class="card">
+      
       <h2>About Me</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
