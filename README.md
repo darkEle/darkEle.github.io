@@ -17,4 +17,4 @@
 <div class="footer">
   <h2>Signing Off....</h2>
 </div>
-<p>©2023 Dark.inc<p>
+<p>©2023 Dark<p>
