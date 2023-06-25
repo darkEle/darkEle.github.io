@@ -6,7 +6,7 @@
   <div class="leftcolumn">
     <div class="card">
       <h2>Home</h2>
-      <h5>“A website without visitors is like a ship lost in the horizon.” - Dr. Christopher Dayagdag</h5>
+      <h5>“A website without visitors is like a ship lost in the horizon.”</h5>
       <div class="fakeimg" style="height:200px;">Image</div>
       <p>Some text..</p>
     </div>
