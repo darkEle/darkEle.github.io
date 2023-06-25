@@ -7,8 +7,7 @@
     <div class="card">
       <h2>Home</h2>
       <h5>“A website without visitors is like a ship lost in the horizon.”</h5>
-      
-      <h2>About Me</h2>
+         <h2>About Me</h2>
       <div class="fakeimg" style="height:100px;">Image</div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
