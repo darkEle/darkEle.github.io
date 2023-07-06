@@ -1,10 +1,12 @@
+<div class="left column">
+<div 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
-    <style>
+   <div                         
+<style
         body {
             font-family: Arial, sans-serif;
         }
@@ -34,9 +36,7 @@
             background-color: #333;
             color: #fff;
             padding: 10px;
-            text-align: center;
-        }
-    </style>
+            text-align: center }</style>
 </head>
 <body>
     <header>
@@ -49,24 +49,22 @@
             </ul>
         </nav>
     </header>
-
-    <section>
-        <h2>Welcome to My Website!</h2>
+ <section>
+     <h2>Welcome to My Website!</h2>
         <p>"A Website Without Visitors Is Like A Ship Lost In The Horizon"</p>
     </section>
-
-    <section>
+ <section>
         <h2>About</h2>
         <p>Hi</p>
         <p>I am Mutahar</p>
     </section>
 
-    <section>
+<section>
         <h2>Contact</h2>
         <p>Email: ganaiemutahar@outlook.com</p>
         <p>Instagram :https://instagram.com/ganaie_mutahar?igshid=MzNlNGNkZWQ4Mg==</p>
         <p>Youtube:https://youtube.com/@MutaharGanaie</p>
     </section>
 
-    <footer>
+  <footer>
         &copy; 2023 Darkspace. All rights reserved
